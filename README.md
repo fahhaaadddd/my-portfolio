@@ -1,7 +1,18 @@
 # My Portfolio
 
-A personal portfolio page for Fahad Bin Badarudheen.
+Personal portfolio for Fahad Bin Badarudheen built with React and Vite.
 
-Open `index.html` in a browser to view the portfolio.
+Live site: https://fahhaaadddd.github.io/my-portfolio/
 
-Portfolio site: https://fahhaaadddd.github.io/my-portfolio/
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
